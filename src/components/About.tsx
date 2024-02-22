@@ -13,8 +13,8 @@ const About: React.FC = () => {
             <div className="space-y-6">
               <div className="text-gray-200">
                 <p>
-                  I&apos;m interested in computer science, IT world and programing coding for spatial data, sightseeing and documentaries. Please don't hesitate to contact me for opportunities and potential collaborations in the world of
-                  mapping and also development of web and mobile based spatial data projects
+                  I&apos;m interested in computer science, IT world and programing coding for spatial data, sightseeing and documentaries. Please don&apos;t hesitate to contact me for opportunities and potential collaborations in the world
+                  of mapping and also development of web and mobile-based spatial data projects
                   <br />
                   <p>My experienced are GIS technician and GIS Developer with a demonstrated history of more than 6 years working in the mapping and surveying industry</p>
                 </p>
