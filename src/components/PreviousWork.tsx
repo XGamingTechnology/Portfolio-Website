@@ -4,7 +4,7 @@ const projects = [
     description:
       "The responsibilities include crafting UI/UX designs, establishing synchronization with PostgreSQL databases, developing backend systems using the Laravel framework, deploying data to hosting platforms, presenting work outcomes, and creating a manual book for user guidance in application usage.",
     imageUrl: "https://thumbs2.imgbox.com/2f/0b/SqVL9bkC_t.png",
-    caseStudyUrl: "#",
+    caseStudyUrl: "http://172.232.250.119/webgis/",
   },
   {
     title: "Surveyour PTSL PM Kabupaten Lumajang",
